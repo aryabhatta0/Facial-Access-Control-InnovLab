@@ -52,8 +52,8 @@ facial-recognition-access-control-system/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/facial-recognition-access-control-system.git
-    cd facial-recognition-access-control-system
+    git clone https://github.com/aryabhatta0/Facial-Access-Control-InnovLab.git
+    cd Facial-Access-Control-InnovLab
     ```
 
 2.  **Python virtual environment setup (recommended):**
@@ -106,7 +106,7 @@ facial-recognition-access-control-system/
 
 ## 🤝 Acknowledgements
 *   My teammates (Aryan Yadav, Vaibhav Aggarwal, and Tharun V) for their contributions
-*   Prof. Debamalya Banerjee
+*   Prof. Debamalya Banerjee (Project Supervisor)
 *   Department of Physics, IIT Kharagpur
 
 *This project was developed as part of the Innovation Lab course at IIT Kharagpur during the 2024–25 academic session.*
