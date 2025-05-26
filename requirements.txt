@@ -1,0 +1,9 @@
+opencv-python
+torch
+ultralytics
+matplotlib
+numpy
+Pillow
+torchvision
+pyserial
+cvzone
